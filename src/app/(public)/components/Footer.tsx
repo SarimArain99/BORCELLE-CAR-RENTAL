@@ -44,7 +44,7 @@ function Footer() {
           <h2 className="text-xl font-bold mb-2">Contact Us</h2>
           <p className="text-sm leading-relaxed">
             Have any questions? Reach out to us via phone or email, and our team
-            will be happy to assist you. We're here to support you with any
+            will be happy to assist you. We&apos;re here to support you with any
             inquiries.
             <br />
             Phone: <strong> +1(123456789)</strong>
