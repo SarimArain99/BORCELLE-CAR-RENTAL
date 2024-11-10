@@ -99,7 +99,7 @@ function Header() {
         </div>
       </div>
       {isOpen && (
-        <div className="absolute top-24 right-0 flex flex-col items-center space-y-6 w-[30%] p-4 bg-[#363636]  h-screen pt-20">
+        <div className="absolute top-24 right-0 flex flex-col items-center space-y-6 md:w-[50%] w-[70%] p-4 bg-[#363636] h-screen pt-20">
           <Link
             href="/about"
             className="flex items-center gap-x-3 group"
